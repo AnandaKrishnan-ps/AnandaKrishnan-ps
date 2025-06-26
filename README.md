@@ -6,9 +6,9 @@ Welcome to my **GitHub** profile!
 
 ## 👨‍💻 **About Me**  
 
-I’m a software engineer with a strong foundation in **Python**, **TypeScript**, **NestJS**, and **AWS**. I’ve had the opportunity to work on projects that improved efficiency and performance, including reducing API costs by 40% and enhancing team productivity by 25%.  
-
-My focus lies in building scalable and reliable systems across domains like **AI**, **real-time communication**, and **cloud technologies**. I enjoy crafting innovative backend solutions that drive cost savings and optimize workflows, delivering impactful and practical results.  
+Senior Backend Engineer with expertise in designing, developing, and deploying scalable, high-performance systems using Python, TypeScript, Nest.JS, and AWS.
+Proven expertise in system architecture, real-time communication, CI/CD pipelines, and LLM integration. An engineer focused on architecting and crafting up
+elegant solutions for complex problems and delivering high-quality, scalable softwares. 
 
 ---
 
@@ -17,11 +17,20 @@ My focus lies in building scalable and reliable systems across domains like **AI
 [![My Recent GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anandakrishnan-ps&theme=react-dark&days=60&custom_title=Past%202%20Months%20Activity)](https://github.com/anandakrishnan-ps/github-readme-activity-graph)  
 
 ---
+## TechStack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,fastapi,nestjs,nodejs,express,mongodb,postgres,docker,aws,jenkins,git,postman,figma,prisma,github,bash,linux,mongodb,mysql&perline=7" />
+  </a>
+</p>
+---
 
-## 🏢 **Previous Organizations**  
+## 🏢 **Organizations**  
 
+### **AiRA AI**  
+<img src="https://avatars.githubusercontent.com/u/44862542?s=50&v=4" alt="AiRA AI Logo" style="vertical-align:middle; margin-right:10px;">
 ### **McKinley Rice**  
-<img src="https://avatars.githubusercontent.com/u/44862542?s=50&v=4" alt="McKinley Rice Logo" style="vertical-align:middle; margin-right:10px;">  
+<img src="https://avatars.githubusercontent.com/u/44862542?s=50&v=4" alt="McKinley Rice Logo" style="vertical-align:middle; margin-right:10px;">
 
 ---
 
