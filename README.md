@@ -25,12 +25,24 @@ elegant solutions for complex problems and delivering high-quality, scalable sof
 </p>
 ---
 
-## 🏢 **Organizations**  
+## 🏢 Organizations
 
-### **AiRA AI**  
-<img src="https://avatars.githubusercontent.com/u/44862542?s=50&v=4" alt="AiRA AI Logo" style="vertical-align:middle; margin-right:10px;">
-### **McKinley Rice**  
-<img src="https://avatars.githubusercontent.com/u/44862542?s=50&v=4" alt="McKinley Rice Logo" style="vertical-align:middle; margin-right:10px;">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.aira-ai.com/" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/212529066?s=50&v=4" alt="AiRA AI Logo"><br>
+        <sub><b>AiRA AI</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mckinleyrice.com/" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/44862542?s=50&v=4" alt="McKinley Rice Logo"><br>
+        <sub><b>McKinley Rice</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
