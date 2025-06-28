@@ -20,7 +20,7 @@ elegant solutions for complex problems and delivering high-quality, scalable sof
 ## TechStack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,fastapi,nestjs,nodejs,express,mongodb,postgres,docker,aws,jenkins,git,postman,figma,prisma,github,bash,linux,mongodb,mysql&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,fastapi,nestjs,nodejs,express,mongodb,postgres,docker,aws,jenkins,git,postman,figma,prisma,github,bash,linux,mongodb,mysql,svelte&perline=11" />
   </a>
 </p>
 
