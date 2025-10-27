@@ -31,7 +31,7 @@ elegant solutions for complex problems and delivering high-quality, scalable sof
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.aira-ai.com/" target="_blank">
+      <a href="https://www.airaai.in/" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/212529066?s=50&v=4" alt="AiRA AI Logo"><br>
         <sub><b>AiRA AI</b></sub>
       </a>
