@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="14" viewBox="0 0 1200 14" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="ga" x1="0" x2="1">
+      <stop offset="0" stop-color="#00C6FF"/>
+      <stop offset="1" stop-color="#001F3F"/>
+    </linearGradient>
+  </defs>
+
+  <!-- thin background -->
+  <rect x="0" y="5" width="1200" height="4" rx="2" fill="url(#ga)" opacity="0.95"/>
+
+  <!-- soft pulse overlay -->
+  <rect x="0" y="4" width="1200" height="6" rx="3" fill="url(#ga)" opacity="0.18">
+    <animate attributeName="opacity" values="0.12;0.3;0.12" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
