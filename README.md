@@ -1,15 +1,94 @@
-<img width="1500" height="500" alt="New Project (2)" src="https://github.com/user-attachments/assets/e68b32d3-8c12-44d1-9dc6-609b129804eb" />
+<img width="1000" height="500" alt="Ananda Krishnan Banner" src="https://github.com/user-attachments/assets/e68b32d3-8c12-44d1-9dc6-609b129804eb" />
 
-## Ananda here!
-### I see a WHO AM I coming, even if not, I am going to still put it next,
-Am a Senior Backend Engineer who believes great architecture lives at the intersection of logic, patience, and chaos management. Skilled in designing,
-developing, and deploying high-performance backend systems using Python, FastAPI, TypeScript, and Azure. Experienced in architecting clean,
-reliable APIs, automating complex workflows with CI/CD, and integrating real-time communication features. Proven record of leading backend
-teams and delivering robust, production-ready systems with precision and consistency.
+<h3 align="center">Backend • Architecture • Automation</h3>
 
-### If you dislike formal introductions, here is another ABOUT ME
-I make backends that mostly work and occasionally impress me. I like understanding things down to the byte because performance doesn’t come from guessing. While most people use print(), I use the debugger — it’s a lifestyle choice at this point. I’ll happily spend hours optimizing something nobody will notice, just because I’ll know it’s better.
+<p align="center">
+  <a href="mailto:anandakrishnan-ps@outlook.com">
+    <img src="https://img.shields.io/badge/Email-anandakrishnan--ps@outlook.com-blue?logo=gmail&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/anandakrishnan-ps">
+    <img src="https://img.shields.io/badge/LinkedIn-Ananda%20Krishnan%20P%20S-0077B5?logo=linkedin&logoColor=white">
+  </a>
+</p>
 
-I use FastAPI, Pydantic, and type hints like a safety net — not because I don’t trust my code, but because I don’t trust future me. I’ve automated deployments so well that I forgot how to deploy manually, and I’ve made APIs fast enough to feel a little smug about it.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:001F3F&height=2&section=footer&animation=fadeIn" />
+</p>
 
-If you like scaling systems, debugging weirdness, or just making servers behave, we’ll get along.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Building+APIs+that+Refuse+to+Crash;Born+to+Return+200+OK;Predictable,+Like+My+API+Calls;99.999%25+Uptime.+The+Rest+is+a+Myth.;Failures%3F+Not+My+Type." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001F3F,100:00C6FF&height=2&section=footer&animation=fadeIn" />
+</p>
+
+### About Me
+
+> “Great architecture lives at the intersection of logic, patience, and chaos management.”
+
+I’m a Senior Backend Engineer who designs, breaks, and rebuilds systems powered by **FastAPI**, **Python**, and a healthy dose of **existential debugging**.  
+I architect, automate, and scale systems that refuse to crash.  
+My APIs are clean, my CI/CD pipelines are smooth, and my logs are detailed enough to confess every sin.
+
+<p align="center">
+  <img src="https://github.com/AnanyaKumar20/Animated-GIFs/blob/main/glitch.gif?raw=true" width="480" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:001F3F&height=2&section=footer&animation=fadeIn" />
+</p>
+
+### What I’ve Built (When Not Debugging at 2 AM)
+
+- **Architected Clean Systems**: Modular FastAPI + NestJS-style controllers with manager patterns for external integrations.  
+- **Automated Everything**: Creator of **Airlock Phoenix Cycle (APC)**, AiRA’s zero-downtime DevOps engine.  
+- **Designed TEMPEX**: Temporal Mutual Exclusion & Preemption Exchange for managing multi-message concurrency chaos.  
+- **Scaled Smartly**: Polyglot persistence setups (MongoDB, Redis, Qdrant, Memgraph) tuned for workload precision.  
+- **Typed Everything**: FastAPI + Pydantic + strict type hints = future-proof code.  
+- **Led, Mentored, Delivered**: Built and guided backend teams that actually ship on time (most of the time).
+
+<p align="center">
+  <img src="https://github.com/AnanyaKumar20/Animated-GIFs/blob/main/glitch.gif?raw=true" width="480" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001F3F,100:00C6FF&height=2&section=footer&animation=fadeIn" />
+</p>
+
+### Along the Way
+
+- **Multiple Coding Contest Wins** – ByteWorks, TekCluster, Blind Coding  
+- **Member of the Month**, McKinley Rice — recognized for backend optimization and leadership  
+- **Smart India Hackathon** – Finalist (2023) & Mentor (2024)  
+- **Google Cloud Career Readiness** – Associate Cloud Engineer Track  
+
+<p align="center">
+  <img src="https://github.com/AnanyaKumar20/Animated-GIFs/blob/main/glitch.gif?raw=true" width="480" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:001F3F&height=2&section=footer&animation=fadeIn" />
+</p>
+
+### Developer Habits
+
+- I use the debugger, not `print()` — precision matters.  
+- I’ve automated deployments so well I forgot how to deploy manually.  
+- I treat `async` and `await` like controlled magic.  
+- I refactor just to make it three lines shorter.  
+- I’ve spent hours optimizing what nobody notices — and I’d do it again.
+
+<p align="center">
+  <img src="https://github.com/AnanyaKumar20/Animated-GIFs/blob/main/glitch.gif?raw=true" width="480" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001F3F,100:00C6FF&height=2&section=footer&animation=fadeIn" />
+</p>
+
+> “If code is poetry, I’m the kind that optimizes its rhyme scheme.”
+
+<p align="center">
+  <img src="https://github.com/AnanyaKumar20/Animated-GIFs/blob/main/glitch.gif?raw=true" width="480" />
+</p>
