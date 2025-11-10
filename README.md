@@ -23,13 +23,11 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001F3F,100:00C6FF&height=2&section=footer&animation=fadeIn" />
 </p>
 
-### About Me
+### You see an About Me coming, right?
 
 > “Great architecture lives at the intersection of logic, patience, and chaos management.”
 
-I’m a Senior Backend Engineer who designs, breaks, and rebuilds systems powered by **FastAPI**, **Python**, and a healthy dose of **existential debugging**.  
-I architect, automate, and scale systems that refuse to crash.  
-My APIs are clean, my CI/CD pipelines are smooth, and my logs are detailed enough to confess every sin.
+I’m a Senior Backend Engineer who designs, breaks, and rebuilds systems powered by **FastAPI**, **Python**, and a healthy dose of **existential debugging**. I architect, automate, and scale systems that refuse to crash.  I love my APIs **clean**, CI/CD pipelines **smooth**, and logs **detailed** enough to confess every sin. I like understanding things down to the byte because performance doesn’t come from guessing.
 
 <p align="center">
   <img src="https://github.com/AnanyaKumar20/Animated-GIFs/blob/main/glitch.gif?raw=true" width="480" />
@@ -41,7 +39,7 @@ My APIs are clean, my CI/CD pipelines are smooth, and my logs are detailed enoug
 
 ### What I’ve Built (When Not Debugging at 2 AM)
 
-- **Architected Clean Systems**: Modular FastAPI + NestJS-style controllers with manager patterns for external integrations.  
+- **Architected Clean Systems**: Modular FastAPI + custom NestJS-style controllers with manager patterns for external integrations.  
 - **Automated Everything**: Creator of **Airlock Phoenix Cycle (APC)**, AiRA’s zero-downtime DevOps engine.  
 - **Designed TEMPEX**: Temporal Mutual Exclusion & Preemption Exchange for managing multi-message concurrency chaos.  
 - **Scaled Smartly**: Polyglot persistence setups (MongoDB, Redis, Qdrant, Memgraph) tuned for workload precision.  
@@ -71,7 +69,7 @@ My APIs are clean, my CI/CD pipelines are smooth, and my logs are detailed enoug
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:001F3F&height=2&section=footer&animation=fadeIn" />
 </p>
 
-### Developer Habits
+### Developer Ananda's Habits
 
 - I use the debugger, not `print()` — precision matters.  
 - I’ve automated deployments so well I forgot how to deploy manually.  
@@ -87,8 +85,8 @@ My APIs are clean, my CI/CD pipelines are smooth, and my logs are detailed enoug
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001F3F,100:00C6FF&height=2&section=footer&animation=fadeIn" />
 </p>
 
-> “If code is poetry, I’m the kind that optimizes its rhyme scheme.”
-
 <p align="center">
   <img src="https://github.com/AnanyaKumar20/Animated-GIFs/blob/main/glitch.gif?raw=true" width="480" />
 </p>
+
+One last thing about myself, I hate cursor like tools, I didn’t become a developer to babysit AI. I came to code, build, and break things, not to explain what I mean to a tool that loves overthinking.
