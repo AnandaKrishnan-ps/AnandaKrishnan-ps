@@ -6,6 +6,7 @@
   <a href="mailto:anandakrishnan-ps@outlook.com">
     <img src="https://img.shields.io/badge/Email-anandakrishnan--ps@outlook.com-blue?logo=gmail&logoColor=white">
   </a>
+  
   <a href="https://linkedin.com/in/anandakrishnan-ps">
     <img src="https://img.shields.io/badge/LinkedIn-Ananda%20Krishnan%20P%20S-0077B5?logo=linkedin&logoColor=white">
   </a>
@@ -71,11 +72,11 @@ I’m a Senior Backend Engineer who designs, breaks, and rebuilds systems powere
 
 ### Developer Ananda's Habits
 
-- I use the debugger, not `print()` — precision matters.  
+- I use the debugger, not `print()` - precision matters.  
 - I’ve automated deployments so well I forgot how to deploy manually.  
 - I treat `async` and `await` like controlled magic.  
 - I refactor just to make it three lines shorter.  
-- I’ve spent hours optimizing what nobody notices — and I’d do it again.
+- I’ve spent hours optimizing what nobody notices and I’d do it again.
 
 <p align="center">
   <img src="https://github.com/AnanyaKumar20/Animated-GIFs/blob/main/glitch.gif?raw=true" width="480" />
