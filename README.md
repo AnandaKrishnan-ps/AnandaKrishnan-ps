@@ -31,10 +31,6 @@
 I’m a Senior Backend Engineer who designs, breaks, and rebuilds systems powered by **FastAPI**, **Python**, and a healthy dose of **existential debugging**. I architect, automate, and scale systems that refuse to crash.  I love my APIs **clean**, CI/CD pipelines **smooth**, and logs **detailed** enough to confess every sin. I like understanding things down to the byte because performance doesn’t come from guessing.
 
 <p align="center">
-  <img src="https://github.com/AnanyaKumar20/Animated-GIFs/blob/main/glitch.gif?raw=true" width="480" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:001F3F&height=2&section=footer&animation=fadeIn" />
 </p>
 
@@ -48,10 +44,6 @@ I’m a Senior Backend Engineer who designs, breaks, and rebuilds systems powere
 - **Led, Mentored, Delivered**: Built and guided backend teams that actually ship on time (most of the time).
 
 <p align="center">
-  <img src="https://github.com/AnanyaKumar20/Animated-GIFs/blob/main/glitch.gif?raw=true" width="480" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001F3F,100:00C6FF&height=2&section=footer&animation=fadeIn" />
 </p>
 
@@ -61,10 +53,6 @@ I’m a Senior Backend Engineer who designs, breaks, and rebuilds systems powere
 - **Member of the Month**, McKinley Rice — recognized for backend optimization and leadership  
 - **Smart India Hackathon** – Finalist (2023) & Mentor (2024)  
 - **Google Cloud Career Readiness** – Associate Cloud Engineer Track  
-
-<p align="center">
-  <img src="https://github.com/AnanyaKumar20/Animated-GIFs/blob/main/glitch.gif?raw=true" width="480" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:001F3F&height=2&section=footer&animation=fadeIn" />
@@ -79,15 +67,7 @@ I’m a Senior Backend Engineer who designs, breaks, and rebuilds systems powere
 - I’ve spent hours optimizing what nobody notices and I’d do it again.
 
 <p align="center">
-  <img src="https://github.com/AnanyaKumar20/Animated-GIFs/blob/main/glitch.gif?raw=true" width="480" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001F3F,100:00C6FF&height=2&section=footer&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/AnanyaKumar20/Animated-GIFs/blob/main/glitch.gif?raw=true" width="480" />
 </p>
 
 One last thing about myself, I hate cursor like tools, I didn’t become a developer to babysit AI. I came to code, build, and break things, not to explain what I mean to a tool that loves overthinking.
